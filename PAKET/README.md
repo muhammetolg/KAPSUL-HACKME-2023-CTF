@@ -1,4 +1,4 @@
-┌──(root㉿Desktop-0RJOY)-[/mnt/c/Users/mht_h/Downloads/Programs]
+
 └─# strings -a PAKET.exe
 !This program cannot be run in DOS mode.
 @<md
