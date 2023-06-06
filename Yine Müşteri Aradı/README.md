@@ -83,11 +83,12 @@ Program bulamazsanız hazır olarak burada : https://github.com/extremecoders-re
                   main()
           # okay decompiling 1001010110111101111110010101010010101.pyc
 
-Kaynak kodundan elde ettiğimiz bilgiye göre AES şifrelemeeyi kullanıyor ve dosyanın ilk 16 byteını şifreliyor 
+Kaynak kodundan elde ettiğimiz bilgiye göre AES şifrelemeeyi kullanıyor ve Iv de değerini il 16 byte'a yazıyor dosyanın geri kalan kısmı şifreleniyor.
 
 Bunu çözebilmem için chatgbt den script yardımı istiyorum fakat verdiği script tam anlamıyla çözemiyor şifreyi tekrardan istiyor. 
 
-1 Saat aradıktan sonra dosyanın oluşturulma tarihine bakıp o anki şifreleri çekeceğimi öğreniyorum daha sonra scripte bunu ekleyip şifreyi denemesini söylüyorum 
+1 Saat aradıktan sonra dosyanın oluşturulma tarihine bakıp o anki şifreleri çekeceğimi öğreniyorum daha sonra scripte bunu ekleyip şifreyi denemesini söylüyorum bulduğu script yine işe yaramayınca 
+https://github.com/jackalkarlos kullanıcısının scriiptini deneyerek çözüyorum 
           
             GNU nano 7.2                                                                                                     aesdecode.py                                                                                                               
           import string
