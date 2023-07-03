@@ -87,8 +87,8 @@ Kaynak kodundan elde ettiğimiz bilgiye göre AES şifrelemeeyi kullanıyor ve I
 
 Bunu çözebilmem için chatgbt den script yardımı istiyorum fakat verdiği script tam anlamıyla çözemiyor şifreyi tekrardan istiyor. 
 
-1 Saat aradıktan sonra dosyanın oluşturulma tarihine bakıp o anki şifreleri çekeceğimi öğreniyorum daha sonra scripte bunu ekleyip şifreyi denemesini söylüyorum bulduğu script yine işe yaramayınca 
-https://github.com/jackalkarlos kullanıcısının scriiptini deneyerek çözüyorum 
+1 Saat aradıktan sonra dosyanın oluşturulma tarihine bakıp o anki şifreleri çekeceğimi öğreniyorum daha sonra scripte bunu ekleyip şifreyi denemesini söylüyorum bulduğu script bu sefer işe yarıyor
+ 
           
             GNU nano 7.2                                                                                                     aesdecode.py                                                                                                               
           import string
